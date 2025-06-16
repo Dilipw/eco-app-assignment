@@ -48,7 +48,7 @@ This is a Laravel 12 + Filament-based admin panel designed as part of a technica
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/Dilipw/eco-app-assignment.git](https://github.com/Dilipw/eco-app-assignment.git)
+git clone https://github.com/Dilipw/eco-app-assignment.git
 cd eco-app-assignment
 ```
 
