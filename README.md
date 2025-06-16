@@ -48,8 +48,8 @@ This is a Laravel 12 + Filament-based admin panel designed as part of a technica
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/Dilipw/eco-app-assignment.git](https://github.com/Dilipw/eco-app-assignment.git)
+cd eco-app-assignment
 ```
 
 ### 2. Install Dependencies
@@ -109,7 +109,7 @@ MAIL_FROM_NAME="NextDigits Orders"
 php artisan key:generate
 ```
 
-### 6. Run Migrations & Seeders
+### 6. Run Migrations & Seeders (Optional)
 
 ```bash
 php artisan migrate --seed
