@@ -78,7 +78,7 @@ APP_NAME=NextDigits
 APP_URL=http://127.0.0.1:8000
 
 DB_CONNECTION=sqlite
-<!-- DB_DATABASE=${DB_DATABASE}/database/database.sqlite  Only For Production use -->
+#  DB_DATABASE=${DB_DATABASE}/database/database.sqlite  Only For Production use 
 
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.mailtrap.io
@@ -145,7 +145,8 @@ On successful order submission, a confirmation email is sent to the customer's e
 The product table (with image, name, category, price, stock, created date) can be exported to Excel using **Laravel Excel**.
 
 ---
-## 📤 Export to PDF Order Selected Report
+## 🧾 Export Order Report to PDF
+
 
 The Order details can be exported to PDF using **Laravel DomPdf Package**.
 
